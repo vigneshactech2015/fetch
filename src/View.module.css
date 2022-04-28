@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@300&display=swap');
+
+.row{
+    border:8px solid white;
+    background-color:#24292F;
+}
+
+.container{
+    background-color: black;
+    font-family: 'Poppins', sans-serif;
+    border:2px solid white;
+    width:45%;
+    margin-left:27%;    
+}
+
+.moviename{
+    color:darkmagenta;
+    font-weight: lighter;
+    text-align: center;
+}
+
+
+.summary{
+    color:white;
+    font-size:smaller;
+    text-align: justify;
+    contain: content;
+}
+
+.rating{
+    color:purple;
+    font-size:medium;
+    text-align: center;
+}
+
+.photo{
+    object-fit: contain;
+    height:auto;
+    width:100%;
+}
